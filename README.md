@@ -1,6 +1,6 @@
 # Heart-Stroke-Prediction
 
-<file:///C:/Users/katta/Documents/PROJECT_STROKE.html>
+<https://mlu-explain.github.io/>
 
 # Executive Summary
 
@@ -29,10 +29,10 @@ Key Performance Metrics:
   * Test Recall: 0.3171
   * Test F1-Score: 0.3951
 * XGBoost:
-Test Accuracy: 0.9123
-Test Precision: 0.9861
-Test Recall: 0.8537
-Test F1-Score: 0.9151
+ * Test Accuracy: 0.9123
+ * Test Precision: 0.9861
+ * Test Recall: 0.8537
+ * Test F1-Score: 0.9151
 
 ## Conclusion:
 
