@@ -1,6 +1,6 @@
 # Heart-Stroke-Prediction
 
-HTML File: file:///C:/Users/katta/Documents/PROJECT_STROKE.html(URL) 
+[HTML Code File](file:///C:/Users/katta/Documents/PROJECT_STROKE.html) 
 
 # Executive Summary
 
@@ -18,17 +18,17 @@ Objective: To develop a machine learning model capable of accurately predicting 
 XGBoost emerged as the most effective model, demonstrating superior performance in terms of accuracy, precision, and recall.
 Key Performance Metrics:
 
-*Logistic Regression:
+* Logistic Regression:
 Test Accuracy: 0.9029
 Test Precision: 0.9861
 Test Recall: 0.3902
 Test F1-Score: 0.5749
-*SVM:
+* SVM:
 Test Accuracy: 0.4137
 Test Precision: 0.5000
 Test Recall: 0.3171
 Test F1-Score: 0.3951
-*XGBoost:
+* XGBoost:
 Test Accuracy: 0.9123
 Test Precision: 0.9861
 Test Recall: 0.8537
