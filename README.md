@@ -1,6 +1,6 @@
 # Heart-Stroke-Prediction
 
-[HTML Code File](file:///C:/Users/katta/Documents/PROJECT_STROKE.html) 
+<file:///C:/Users/katta/Documents/PROJECT_STROKE.html>
 
 # Executive Summary
 
@@ -19,15 +19,15 @@ XGBoost emerged as the most effective model, demonstrating superior performance 
 Key Performance Metrics:
 
 * Logistic Regression:
-Test Accuracy: 0.9029
-Test Precision: 0.9861
-Test Recall: 0.3902
-Test F1-Score: 0.5749
+  * Test Accuracy: 0.9029
+  * Test Precision: 0.9861
+  * Test Recall: 0.3902
+  * Test F1-Score: 0.5749
 * SVM:
-Test Accuracy: 0.4137
-Test Precision: 0.5000
-Test Recall: 0.3171
-Test F1-Score: 0.3951
+  * Test Accuracy: 0.4137
+  * Test Precision: 0.5000
+  * Test Recall: 0.3171
+  * Test F1-Score: 0.3951
 * XGBoost:
 Test Accuracy: 0.9123
 Test Precision: 0.9861
